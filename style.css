@@ -1,0 +1,15 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.wrapper {
+    max-width: 1500px;
+    margin: 0 auto;
+}
+.title {
+    text-align: center;
+}
+.result {
+    text-align: center;
+}
